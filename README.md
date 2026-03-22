@@ -1,0 +1,2 @@
+# assignment1
+Assignment_1_ADS_Amir_Kunanbayev_SE2514
